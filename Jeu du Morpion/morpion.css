@@ -1,0 +1,29 @@
+h1{
+    color: red ;
+}
+h2{
+    color: black;
+}
+
+table, th, tr {
+    border: 1px solid;
+    height: 165px;
+    width: 600px;
+    font-size: 60px;
+}
+th:hover{
+    background-color: gold;
+}
+
+/* Dark Mode */
+.dark {
+    background-color: #000000;
+    color: #ffffff;
+  }
+  
+  .dark button {
+    background: #144098;
+    color: #fff;
+    
+  }
+  /* FIN Dark Mode */
